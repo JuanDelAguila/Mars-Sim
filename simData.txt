@@ -1,0 +1,28 @@
+General parameters:
+
+Number of time-steps: 10000
+Length of time-step (seconds): 20
+Window size: 25e6
+
+Celestial bodies:
+
+Name: Mars
+Color (RGB): 0.886, 0.482, 0.345
+Mass: 6.4185e23
+Body Radius: 3376e3
+Size Bias: 0
+Orbit Radius: 0
+
+Name: Phobos
+Color (RGB): 0.502, 0.502, 0.502
+Mass: 1.06e16
+Body Radius: 11e3
+Size Bias: 500e3
+Orbit Radius: 9.3773e6
+
+Name: Deimos
+Color (RGB): 0.7, 0.7, 0.7
+Mass: 1.80e15
+Body Radius: 11e3
+Size Bias: 500e3
+Orbit Radius: 23.463e6
